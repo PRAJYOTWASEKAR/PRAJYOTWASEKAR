@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **Docker, Supabase, and advanced AWS concepts**
 
-💬 Ask me about **JavaScript frameworks (React.js, Node.js), Salesforce, or Deep Learning projects [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **JavaScript frameworks (React.js, Node.js), Salesforce, or Deep Learning projects [here](https://github.com/PRAJYOTWASEKAR/issues)**
 
 ⚡ Fun fact: **The first computer "bug" was an actual moth found in a computer in 1947!**
 
